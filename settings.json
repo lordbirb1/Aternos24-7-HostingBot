@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot",
   "bot-account": {
-    "username": "YourBot",
+    "username": "birbbot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "thosewhoknowmcsmp.aternos.me",
